@@ -1,5 +1,5 @@
 {
-  "name": "watermark-canvas",
+  "name": "watermark-background",
   "version": "1.0.0",
   "description": "generate water mark through div background",
   "main": "index.js",
