@@ -1,6 +1,6 @@
 [*Example of usage*](https://tinyurl.com/2mknex43):
 ```js
-import { setWatermark } form 'watermark-canvas';
+import { setWatermark } form 'watermark-background';
 
 setWatermark({
   markText: 'watermark text',
